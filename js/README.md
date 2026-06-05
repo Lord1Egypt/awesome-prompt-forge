@@ -1,6 +1,6 @@
 # awesome-prompt-forge
 
-> 2,026 lazy-loading AI system prompts — Claude, ChatGPT, v0, Cursor, Grok, Devin & more
+> 2,366 lazy-loading AI system prompts — Claude, Claude Code internals, ChatGPT, v0, Cursor, Grok, Devin & more
 
 [![PyPI](https://img.shields.io/pypi/v/awesome-prompt-forge)](https://pypi.org/project/awesome-prompt-forge/)
 [![npm](https://img.shields.io/npm/v/awesome-prompt-forge)](https://www.npmjs.com/package/awesome-prompt-forge)
@@ -89,6 +89,7 @@ npx awesome-prompt-forge search "code review"
 | Category | Description | Count |
 |----------|-------------|-------|
 | `claude` | Official Claude system prompts | 11 |
+| `claude-code` | Claude Code internal agent/skill/tool prompts | 340 |
 | `chatgpt` | GPT-4, ChatGPT, o3/o4 prompts | 18 |
 | `v0` | Vercel v0 system prompts | 3 |
 | `cursor` | Cursor IDE prompts | 2 |
@@ -110,6 +111,7 @@ npx awesome-prompt-forge search "code review"
 - [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts) — CC0
 - [danielrosehill/Writing-System-Prompts](https://huggingface.co/datasets/danielrosehill/Writing-System-Prompts) — CC-BY-4.0
 - [Lord1Egypt/awesome-ai-system-prompts](https://github.com/Lord1Egypt/awesome-ai-system-prompts)
+- [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) — MIT
 
 ---
 

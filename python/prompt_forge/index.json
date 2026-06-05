@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
-  "total": 2026,
+  "version": "1.0.2",
+  "total": 2366,
   "prompts": [
     {
       "name": "claude-3-30424",
@@ -67,6 +67,2046 @@
       "category": "claude",
       "description": "You must use artifacts for",
       "path": "prompts/claude/claude-5062025.md"
+    },
+    {
+      "name": "agent-prompt-agent-creation-architect",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-agent-creation-architect.md"
+    },
+    {
+      "name": "agent-prompt-auto-mode-rule-reviewer",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-auto-mode-rule-reviewer.md"
+    },
+    {
+      "name": "agent-prompt-background-agent-state-classifier",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-background-agent-state-classifier.md"
+    },
+    {
+      "name": "agent-prompt-background-job-agent-instructions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-background-job-agent-instructions.md"
+    },
+    {
+      "name": "agent-prompt-bash-command-description-writer",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-bash-command-description-writer.md"
+    },
+    {
+      "name": "agent-prompt-bash-command-prefix-detection",
+      "category": "claude-code",
+      "description": "Claude Code Code Bash command prefix detection",
+      "path": "prompts/claude-code/agent-prompt-bash-command-prefix-detection.md"
+    },
+    {
+      "name": "agent-prompt-batch-slash-command",
+      "category": "claude-code",
+      "description": "Batch: Parallel Work Orchestration",
+      "path": "prompts/claude-code/agent-prompt-batch-slash-command.md"
+    },
+    {
+      "name": "agent-prompt-claude-guide-agent",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-claude-guide-agent.md"
+    },
+    {
+      "name": "agent-prompt-claudemd-creation",
+      "category": "claude-code",
+      "description": "CLAUDE.md",
+      "path": "prompts/claude-code/agent-prompt-claudemd-creation.md"
+    },
+    {
+      "name": "agent-prompt-code-review-part-1-base-finder-angles",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-code-review-part-1-base-finder-angles.md"
+    },
+    {
+      "name": "agent-prompt-code-review-part-2-low-effort-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-code-review-part-2-low-effort-mode.md"
+    },
+    {
+      "name": "agent-prompt-code-review-part-3-extra-high-and-maximum-effort-modes",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-code-review-part-3-extra-high-and-maximum-effort-modes.md"
+    },
+    {
+      "name": "agent-prompt-code-review-part-5-recall-biased-verification-phase",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-code-review-part-5-recall-biased-verification-phase.md"
+    },
+    {
+      "name": "agent-prompt-code-review-part-6-medium-effort-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-code-review-part-6-medium-effort-mode.md"
+    },
+    {
+      "name": "agent-prompt-code-review-part-7-high-effort-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-code-review-part-7-high-effort-mode.md"
+    },
+    {
+      "name": "agent-prompt-code-review-part-8-github-comment-posting",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-code-review-part-8-github-comment-posting.md"
+    },
+    {
+      "name": "agent-prompt-code-review-part-9-fix-application",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-code-review-part-9-fix-application.md"
+    },
+    {
+      "name": "agent-prompt-coding-session-title-generator",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-coding-session-title-generator.md"
+    },
+    {
+      "name": "agent-prompt-conversation-summarization",
+      "category": "claude-code",
+      "description": "Summary instructions",
+      "path": "prompts/claude-code/agent-prompt-conversation-summarization.md"
+    },
+    {
+      "name": "agent-prompt-determine-which-memory-files-to-attach",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-determine-which-memory-files-to-attach.md"
+    },
+    {
+      "name": "agent-prompt-dream-memory-consolidation",
+      "category": "claude-code",
+      "description": "Dream: Memory Consolidation",
+      "path": "prompts/claude-code/agent-prompt-dream-memory-consolidation.md"
+    },
+    {
+      "name": "agent-prompt-dream-memory-pruning",
+      "category": "claude-code",
+      "description": "Dream: Memory Pruning",
+      "path": "prompts/claude-code/agent-prompt-dream-memory-pruning.md"
+    },
+    {
+      "name": "agent-prompt-explore",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-explore.md"
+    },
+    {
+      "name": "agent-prompt-general-purpose",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-general-purpose.md"
+    },
+    {
+      "name": "agent-prompt-hook-condition-evaluator-stop",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-hook-condition-evaluator-stop.md"
+    },
+    {
+      "name": "agent-prompt-managed-agents-onboarding-flow",
+      "category": "claude-code",
+      "description": "Managed Agents — Onboarding Flow",
+      "path": "prompts/claude-code/agent-prompt-managed-agents-onboarding-flow.md"
+    },
+    {
+      "name": "agent-prompt-memory-synthesis",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-memory-synthesis.md"
+    },
+    {
+      "name": "agent-prompt-onboarding-guide-draft-share-link-workflow",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-onboarding-guide-draft-share-link-workflow.md"
+    },
+    {
+      "name": "agent-prompt-onboarding-guide-generator",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-onboarding-guide-generator.md"
+    },
+    {
+      "name": "agent-prompt-plan-mode-enhanced",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-plan-mode-enhanced.md"
+    },
+    {
+      "name": "agent-prompt-prompt-suggestion-generator-v2",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-prompt-suggestion-generator-v2.md"
+    },
+    {
+      "name": "agent-prompt-quick-git-commit",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-quick-git-commit.md"
+    },
+    {
+      "name": "agent-prompt-quick-pr-creation",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-quick-pr-creation.md"
+    },
+    {
+      "name": "agent-prompt-recent-message-summarization",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-recent-message-summarization.md"
+    },
+    {
+      "name": "agent-prompt-rename-auto-generate-session-name",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-rename-auto-generate-session-name.md"
+    },
+    {
+      "name": "agent-prompt-review-pr-slash-command",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-review-pr-slash-command.md"
+    },
+    {
+      "name": "agent-prompt-schedule-slash-command",
+      "category": "claude-code",
+      "description": "Schedule Remote Agents",
+      "path": "prompts/claude-code/agent-prompt-schedule-slash-command.md"
+    },
+    {
+      "name": "agent-prompt-security-monitor-for-autonomous-agent-actions-first-part",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-security-monitor-for-autonomous-agent-actions-first-part.md"
+    },
+    {
+      "name": "agent-prompt-security-monitor-for-autonomous-agent-actions-second-part",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-security-monitor-for-autonomous-agent-actions-second-part.md"
+    },
+    {
+      "name": "agent-prompt-security-review-slash-command",
+      "category": "claude-code",
+      "description": "Vuln 1: XSS: `foo.py:42`",
+      "path": "prompts/claude-code/agent-prompt-security-review-slash-command.md"
+    },
+    {
+      "name": "agent-prompt-session-search",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-session-search.md"
+    },
+    {
+      "name": "agent-prompt-session-title-and-branch-generation",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-session-title-and-branch-generation.md"
+    },
+    {
+      "name": "agent-prompt-simplify-slash-command",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-simplify-slash-command.md"
+    },
+    {
+      "name": "agent-prompt-status-line-setup",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-status-line-setup.md"
+    },
+    {
+      "name": "agent-prompt-webfetch-summarizer",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-webfetch-summarizer.md"
+    },
+    {
+      "name": "agent-prompt-worker-fork",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-worker-fork.md"
+    },
+    {
+      "name": "agent-prompt-workflow-subagent-plain-text-output",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-workflow-subagent-plain-text-output.md"
+    },
+    {
+      "name": "agent-prompt-workflow-subagent-structured-output",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/agent-prompt-workflow-subagent-structured-output.md"
+    },
+    {
+      "name": "data-anthropic-cli",
+      "category": "claude-code",
+      "description": "Anthropic CLI (`ant`)",
+      "path": "prompts/claude-code/data-anthropic-cli.md"
+    },
+    {
+      "name": "data-assistant-voice-and-values-template",
+      "category": "claude-code",
+      "description": "Claude — voice and values",
+      "path": "prompts/claude-code/data-assistant-voice-and-values-template.md"
+    },
+    {
+      "name": "data-claude-api-reference-c",
+      "category": "claude-code",
+      "description": "Claude API — C#",
+      "path": "prompts/claude-code/data-claude-api-reference-c.md"
+    },
+    {
+      "name": "data-claude-api-reference-curl",
+      "category": "claude-code",
+      "description": "Claude API — cURL / Raw HTTP",
+      "path": "prompts/claude-code/data-claude-api-reference-curl.md"
+    },
+    {
+      "name": "data-claude-api-reference-go",
+      "category": "claude-code",
+      "description": "Claude API — Go",
+      "path": "prompts/claude-code/data-claude-api-reference-go.md"
+    },
+    {
+      "name": "data-claude-api-reference-java",
+      "category": "claude-code",
+      "description": "Claude API — Java",
+      "path": "prompts/claude-code/data-claude-api-reference-java.md"
+    },
+    {
+      "name": "data-claude-api-reference-php",
+      "category": "claude-code",
+      "description": "Claude API — PHP",
+      "path": "prompts/claude-code/data-claude-api-reference-php.md"
+    },
+    {
+      "name": "data-claude-api-reference-python",
+      "category": "claude-code",
+      "description": "Claude API — Python",
+      "path": "prompts/claude-code/data-claude-api-reference-python.md"
+    },
+    {
+      "name": "data-claude-api-reference-ruby",
+      "category": "claude-code",
+      "description": "Claude API — Ruby",
+      "path": "prompts/claude-code/data-claude-api-reference-ruby.md"
+    },
+    {
+      "name": "data-claude-api-reference-typescript",
+      "category": "claude-code",
+      "description": "Claude API — TypeScript",
+      "path": "prompts/claude-code/data-claude-api-reference-typescript.md"
+    },
+    {
+      "name": "data-claude-code-live-documentation-sources",
+      "category": "claude-code",
+      "description": "Live Documentation Sources",
+      "path": "prompts/claude-code/data-claude-code-live-documentation-sources.md"
+    },
+    {
+      "name": "data-claude-code-recent-changes-reference",
+      "category": "claude-code",
+      "description": "Recently changed surfaces",
+      "path": "prompts/claude-code/data-claude-code-recent-changes-reference.md"
+    },
+    {
+      "name": "data-claude-model-catalog",
+      "category": "claude-code",
+      "description": "Claude Model Catalog",
+      "path": "prompts/claude-code/data-claude-model-catalog.md"
+    },
+    {
+      "name": "data-claude-platform-on-aws-reference",
+      "category": "claude-code",
+      "description": "Claude Platform on AWS",
+      "path": "prompts/claude-code/data-claude-platform-on-aws-reference.md"
+    },
+    {
+      "name": "data-cowork-plugin-component-schemas",
+      "category": "claude-code",
+      "description": "Component Schemas",
+      "path": "prompts/claude-code/data-cowork-plugin-component-schemas.md"
+    },
+    {
+      "name": "data-cowork-plugin-examples",
+      "category": "claude-code",
+      "description": "Example Plugins",
+      "path": "prompts/claude-code/data-cowork-plugin-examples.md"
+    },
+    {
+      "name": "data-cowork-plugin-mcp-discovery-and-connection",
+      "category": "claude-code",
+      "description": "MCP Discovery and Connection",
+      "path": "prompts/claude-code/data-cowork-plugin-mcp-discovery-and-connection.md"
+    },
+    {
+      "name": "data-files-api-reference-python",
+      "category": "claude-code",
+      "description": "Files API — Python",
+      "path": "prompts/claude-code/data-files-api-reference-python.md"
+    },
+    {
+      "name": "data-files-api-reference-typescript",
+      "category": "claude-code",
+      "description": "Files API — TypeScript",
+      "path": "prompts/claude-code/data-files-api-reference-typescript.md"
+    },
+    {
+      "name": "data-github-actions-workflow-for-claude-mentions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/data-github-actions-workflow-for-claude-mentions.md"
+    },
+    {
+      "name": "data-github-app-installation-pr-description",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/data-github-app-installation-pr-description.md"
+    },
+    {
+      "name": "data-http-error-codes-reference",
+      "category": "claude-code",
+      "description": "HTTP Error Codes Reference",
+      "path": "prompts/claude-code/data-http-error-codes-reference.md"
+    },
+    {
+      "name": "data-knowledge-mcp-search-strategies",
+      "category": "claude-code",
+      "description": "Knowledge MCP Search Strategies",
+      "path": "prompts/claude-code/data-knowledge-mcp-search-strategies.md"
+    },
+    {
+      "name": "data-live-documentation-sources",
+      "category": "claude-code",
+      "description": "Live Documentation Sources",
+      "path": "prompts/claude-code/data-live-documentation-sources.md"
+    },
+    {
+      "name": "data-managed-agents-client-patterns",
+      "category": "claude-code",
+      "description": "Managed Agents — Common Client Patterns",
+      "path": "prompts/claude-code/data-managed-agents-client-patterns.md"
+    },
+    {
+      "name": "data-managed-agents-core-concepts",
+      "category": "claude-code",
+      "description": "Managed Agents — Core Concepts",
+      "path": "prompts/claude-code/data-managed-agents-core-concepts.md"
+    },
+    {
+      "name": "data-managed-agents-endpoint-reference",
+      "category": "claude-code",
+      "description": "Managed Agents — Endpoint Reference",
+      "path": "prompts/claude-code/data-managed-agents-endpoint-reference.md"
+    },
+    {
+      "name": "data-managed-agents-environments-and-resources",
+      "category": "claude-code",
+      "description": "Managed Agents — Environments & Resources",
+      "path": "prompts/claude-code/data-managed-agents-environments-and-resources.md"
+    },
+    {
+      "name": "data-managed-agents-events-and-steering",
+      "category": "claude-code",
+      "description": "Managed Agents — Events & Steering",
+      "path": "prompts/claude-code/data-managed-agents-events-and-steering.md"
+    },
+    {
+      "name": "data-managed-agents-memory-stores-reference",
+      "category": "claude-code",
+      "description": "Managed Agents — Memory Stores",
+      "path": "prompts/claude-code/data-managed-agents-memory-stores-reference.md"
+    },
+    {
+      "name": "data-managed-agents-multiagent-sessions",
+      "category": "claude-code",
+      "description": "Managed Agents — Multiagent Sessions",
+      "path": "prompts/claude-code/data-managed-agents-multiagent-sessions.md"
+    },
+    {
+      "name": "data-managed-agents-outcomes",
+      "category": "claude-code",
+      "description": "Managed Agents — Outcomes",
+      "path": "prompts/claude-code/data-managed-agents-outcomes.md"
+    },
+    {
+      "name": "data-managed-agents-overview",
+      "category": "claude-code",
+      "description": "Managed Agents — Overview",
+      "path": "prompts/claude-code/data-managed-agents-overview.md"
+    },
+    {
+      "name": "data-managed-agents-reference-curl",
+      "category": "claude-code",
+      "description": "Managed Agents — cURL / Raw HTTP",
+      "path": "prompts/claude-code/data-managed-agents-reference-curl.md"
+    },
+    {
+      "name": "data-managed-agents-reference-python",
+      "category": "claude-code",
+      "description": "Managed Agents — Python",
+      "path": "prompts/claude-code/data-managed-agents-reference-python.md"
+    },
+    {
+      "name": "data-managed-agents-reference-typescript",
+      "category": "claude-code",
+      "description": "Managed Agents — TypeScript",
+      "path": "prompts/claude-code/data-managed-agents-reference-typescript.md"
+    },
+    {
+      "name": "data-managed-agents-self-hosted-sandboxes",
+      "category": "claude-code",
+      "description": "Managed Agents — Self-Hosted Sandboxes",
+      "path": "prompts/claude-code/data-managed-agents-self-hosted-sandboxes.md"
+    },
+    {
+      "name": "data-managed-agents-tools-and-skills",
+      "category": "claude-code",
+      "description": "Managed Agents — Tools & Skills",
+      "path": "prompts/claude-code/data-managed-agents-tools-and-skills.md"
+    },
+    {
+      "name": "data-managed-agents-webhooks",
+      "category": "claude-code",
+      "description": "Managed Agents — Webhooks",
+      "path": "prompts/claude-code/data-managed-agents-webhooks.md"
+    },
+    {
+      "name": "data-message-batches-api-reference-python",
+      "category": "claude-code",
+      "description": "Message Batches API — Python",
+      "path": "prompts/claude-code/data-message-batches-api-reference-python.md"
+    },
+    {
+      "name": "data-prompt-caching-design-optimization",
+      "category": "claude-code",
+      "description": "Prompt Caching — Design & Optimization",
+      "path": "prompts/claude-code/data-prompt-caching-design-optimization.md"
+    },
+    {
+      "name": "data-streaming-reference-python",
+      "category": "claude-code",
+      "description": "Streaming — Python",
+      "path": "prompts/claude-code/data-streaming-reference-python.md"
+    },
+    {
+      "name": "data-streaming-reference-typescript",
+      "category": "claude-code",
+      "description": "Streaming — TypeScript",
+      "path": "prompts/claude-code/data-streaming-reference-typescript.md"
+    },
+    {
+      "name": "data-token-counting-reference",
+      "category": "claude-code",
+      "description": "Token Counting",
+      "path": "prompts/claude-code/data-token-counting-reference.md"
+    },
+    {
+      "name": "data-tool-use-concepts",
+      "category": "claude-code",
+      "description": "Tool Use Concepts",
+      "path": "prompts/claude-code/data-tool-use-concepts.md"
+    },
+    {
+      "name": "data-tool-use-reference-python",
+      "category": "claude-code",
+      "description": "Tool Use — Python",
+      "path": "prompts/claude-code/data-tool-use-reference-python.md"
+    },
+    {
+      "name": "data-tool-use-reference-typescript",
+      "category": "claude-code",
+      "description": "Tool Use — TypeScript",
+      "path": "prompts/claude-code/data-tool-use-reference-typescript.md"
+    },
+    {
+      "name": "data-user-profile-memory-template",
+      "category": "claude-code",
+      "description": "About The User",
+      "path": "prompts/claude-code/data-user-profile-memory-template.md"
+    },
+    {
+      "name": "skill-agent-design-patterns",
+      "category": "claude-code",
+      "description": "Agent Design Patterns",
+      "path": "prompts/claude-code/skill-agent-design-patterns.md"
+    },
+    {
+      "name": "skill-build-with-claude-api-reference-guide",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-build-with-claude-api-reference-guide.md"
+    },
+    {
+      "name": "skill-building-llm-powered-applications-with-claude",
+      "category": "claude-code",
+      "description": "Building LLM-Powered Applications with Claude",
+      "path": "prompts/claude-code/skill-building-llm-powered-applications-with-claude.md"
+    },
+    {
+      "name": "skill-catch-up-periodic-heartbeat",
+      "category": "claude-code",
+      "description": "Catch-Up",
+      "path": "prompts/claude-code/skill-catch-up-periodic-heartbeat.md"
+    },
+    {
+      "name": "skill-claude-code-configuration-guide",
+      "category": "claude-code",
+      "description": "Claude Code Configuration Guide",
+      "path": "prompts/claude-code/skill-claude-code-configuration-guide.md"
+    },
+    {
+      "name": "skill-computer-use-mcp",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-computer-use-mcp.md"
+    },
+    {
+      "name": "skill-cowork-plugin-authoring",
+      "category": "claude-code",
+      "description": "Cowork Plugin Authoring",
+      "path": "prompts/claude-code/skill-cowork-plugin-authoring.md"
+    },
+    {
+      "name": "skill-create-verifier-skills",
+      "category": "claude-code",
+      "description": "<Verifier Title>",
+      "path": "prompts/claude-code/skill-create-verifier-skills.md"
+    },
+    {
+      "name": "skill-debugging",
+      "category": "claude-code",
+      "description": "Debug Skill",
+      "path": "prompts/claude-code/skill-debugging.md"
+    },
+    {
+      "name": "skill-design-sync-package-source-shape",
+      "category": "claude-code",
+      "description": "Package source shape",
+      "path": "prompts/claude-code/skill-design-sync-package-source-shape.md"
+    },
+    {
+      "name": "skill-design-sync-slash-command",
+      "category": "claude-code",
+      "description": "Sync a design system to claude.ai/design",
+      "path": "prompts/claude-code/skill-design-sync-slash-command.md"
+    },
+    {
+      "name": "skill-design-sync-storybook-source-shape",
+      "category": "claude-code",
+      "description": "Storybook source shape",
+      "path": "prompts/claude-code/skill-design-sync-storybook-source-shape.md"
+    },
+    {
+      "name": "skill-dream-memory-consolidation",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-dream-memory-consolidation.md"
+    },
+    {
+      "name": "skill-dynamic-pacing-loop-execution",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-dynamic-pacing-loop-execution.md"
+    },
+    {
+      "name": "skill-generate-permission-allowlist-from-transcripts",
+      "category": "claude-code",
+      "description": "Fewer Permission Prompts",
+      "path": "prompts/claude-code/skill-generate-permission-allowlist-from-transcripts.md"
+    },
+    {
+      "name": "skill-init-claudemd-and-skill-setup-new-version",
+      "category": "claude-code",
+      "description": "CLAUDE.md",
+      "path": "prompts/claude-code/skill-init-claudemd-and-skill-setup-new-version.md"
+    },
+    {
+      "name": "skill-insights-report-output",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-insights-report-output.md"
+    },
+    {
+      "name": "skill-loop-cloud-first-scheduling-offer",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-loop-cloud-first-scheduling-offer.md"
+    },
+    {
+      "name": "skill-loop-self-pacing-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-loop-self-pacing-mode.md"
+    },
+    {
+      "name": "skill-loop-slash-command-dynamic-mode",
+      "category": "claude-code",
+      "description": "/loop — schedule a recurring or self-paced prompt",
+      "path": "prompts/claude-code/skill-loop-slash-command-dynamic-mode.md"
+    },
+    {
+      "name": "skill-loop-slash-command",
+      "category": "claude-code",
+      "description": "/loop — schedule a recurring prompt",
+      "path": "prompts/claude-code/skill-loop-slash-command.md"
+    },
+    {
+      "name": "skill-model-migration-guide",
+      "category": "claude-code",
+      "description": "Model Migration Guide",
+      "path": "prompts/claude-code/skill-model-migration-guide.md"
+    },
+    {
+      "name": "skill-morning-checkin-daily-brief",
+      "category": "claude-code",
+      "description": "Morning Check-In",
+      "path": "prompts/claude-code/skill-morning-checkin-daily-brief.md"
+    },
+    {
+      "name": "skill-pre-meeting-checkin-event-brief",
+      "category": "claude-code",
+      "description": "Pre-Meeting Check-In",
+      "path": "prompts/claude-code/skill-pre-meeting-checkin-event-brief.md"
+    },
+    {
+      "name": "skill-run-app",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-run-app.md"
+    },
+    {
+      "name": "skill-run-browser-driven-web-app-example",
+      "category": "claude-code",
+      "description": "Example: Browser-driven web app",
+      "path": "prompts/claude-code/skill-run-browser-driven-web-app-example.md"
+    },
+    {
+      "name": "skill-run-cli-tool-example",
+      "category": "claude-code",
+      "description": "Example: CLI tool",
+      "path": "prompts/claude-code/skill-run-cli-tool-example.md"
+    },
+    {
+      "name": "skill-run-electron-desktop-gui-app-example",
+      "category": "claude-code",
+      "description": "Example: Electron / desktop GUI app",
+      "path": "prompts/claude-code/skill-run-electron-desktop-gui-app-example.md"
+    },
+    {
+      "name": "skill-run-library-sdk-example",
+      "category": "claude-code",
+      "description": "Example: Library / SDK",
+      "path": "prompts/claude-code/skill-run-library-sdk-example.md"
+    },
+    {
+      "name": "skill-run-skill-generator",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-run-skill-generator.md"
+    },
+    {
+      "name": "skill-run-skill-template",
+      "category": "claude-code",
+      "description": "Example: Node 20 via nvm, Python 3.12 via uv, etc.",
+      "path": "prompts/claude-code/skill-run-skill-template.md"
+    },
+    {
+      "name": "skill-run-tui-interactive-terminal-app-example",
+      "category": "claude-code",
+      "description": "Example: TUI / interactive terminal app",
+      "path": "prompts/claude-code/skill-run-tui-interactive-terminal-app-example.md"
+    },
+    {
+      "name": "skill-run-web-server-api-example",
+      "category": "claude-code",
+      "description": "Example: Web server / API",
+      "path": "prompts/claude-code/skill-run-web-server-api-example.md"
+    },
+    {
+      "name": "skill-schedule-recurring-cron-and-execute-immediately-compact",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-schedule-recurring-cron-and-execute-immediately-compact.md"
+    },
+    {
+      "name": "skill-schedule-recurring-cron-and-run-immediately",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-schedule-recurring-cron-and-run-immediately.md"
+    },
+    {
+      "name": "skill-stuck-slash-command",
+      "category": "claude-code",
+      "description": "/stuck — diagnose frozen/slow Claude Code sessions",
+      "path": "prompts/claude-code/skill-stuck-slash-command.md"
+    },
+    {
+      "name": "skill-team-onboarding-guide",
+      "category": "claude-code",
+      "description": "Welcome to [Team Name]",
+      "path": "prompts/claude-code/skill-team-onboarding-guide.md"
+    },
+    {
+      "name": "skill-update-claude-code-config",
+      "category": "claude-code",
+      "description": "Update Config Skill",
+      "path": "prompts/claude-code/skill-update-claude-code-config.md"
+    },
+    {
+      "name": "skill-update-config-7-step-verification-flow",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-update-config-7-step-verification-flow.md"
+    },
+    {
+      "name": "skill-verify-cli-changes-example-for-verify-skill",
+      "category": "claude-code",
+      "description": "Verifying a CLI change",
+      "path": "prompts/claude-code/skill-verify-cli-changes-example-for-verify-skill.md"
+    },
+    {
+      "name": "skill-verify-serverapi-changes-example-for-verify-skill",
+      "category": "claude-code",
+      "description": "Verifying a server/API change",
+      "path": "prompts/claude-code/skill-verify-serverapi-changes-example-for-verify-skill.md"
+    },
+    {
+      "name": "skill-verify-skill",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/skill-verify-skill.md"
+    },
+    {
+      "name": "system-prompt-action-safety-and-truthful-reporting",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-action-safety-and-truthful-reporting.md"
+    },
+    {
+      "name": "system-prompt-advisor-tool-instructions",
+      "category": "claude-code",
+      "description": "Advisor Tool",
+      "path": "prompts/claude-code/system-prompt-advisor-tool-instructions.md"
+    },
+    {
+      "name": "system-prompt-agent-memory-instructions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-agent-memory-instructions.md"
+    },
+    {
+      "name": "system-prompt-agent-summary-generation",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-agent-summary-generation.md"
+    },
+    {
+      "name": "system-prompt-agent-thread-notes",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-agent-thread-notes.md"
+    },
+    {
+      "name": "system-prompt-auto-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-auto-mode.md"
+    },
+    {
+      "name": "system-prompt-autonomous-loop-check",
+      "category": "claude-code",
+      "description": "Autonomous loop check",
+      "path": "prompts/claude-code/system-prompt-autonomous-loop-check.md"
+    },
+    {
+      "name": "system-prompt-autonomous-loop-persistence-guidance-claude_code_loop_persistent",
+      "category": "claude-code",
+      "description": "Autonomous loop check",
+      "path": "prompts/claude-code/system-prompt-autonomous-loop-persistence-guidance-claude_code_loop_persistent.md"
+    },
+    {
+      "name": "system-prompt-avoiding-unnecessary-sleep-commands-part-of-powershell-tool-description",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-avoiding-unnecessary-sleep-commands-part-of-powershell-tool-description.md"
+    },
+    {
+      "name": "system-prompt-background-session-instructions",
+      "category": "claude-code",
+      "description": "Background Session",
+      "path": "prompts/claude-code/system-prompt-background-session-instructions.md"
+    },
+    {
+      "name": "system-prompt-censoring-assistance-with-malicious-activities",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-censoring-assistance-with-malicious-activities.md"
+    },
+    {
+      "name": "system-prompt-chrome-browser-mcp-tools",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-chrome-browser-mcp-tools.md"
+    },
+    {
+      "name": "system-prompt-claude-in-chrome-browser-automation",
+      "category": "claude-code",
+      "description": "Claude in Chrome browser automation",
+      "path": "prompts/claude-code/system-prompt-claude-in-chrome-browser-automation.md"
+    },
+    {
+      "name": "system-prompt-comment-what-and-task-context-avoidance",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-comment-what-and-task-context-avoidance.md"
+    },
+    {
+      "name": "system-prompt-comment-why-only-guidance",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-comment-why-only-guidance.md"
+    },
+    {
+      "name": "system-prompt-communication-style",
+      "category": "claude-code",
+      "description": "Text output (does not apply to tool calls)",
+      "path": "prompts/claude-code/system-prompt-communication-style.md"
+    },
+    {
+      "name": "system-prompt-context-compaction-summary",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-context-compaction-summary.md"
+    },
+    {
+      "name": "system-prompt-coordinator-mode-orchestration",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-coordinator-mode-orchestration.md"
+    },
+    {
+      "name": "system-prompt-coordinator-worker-instructions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-coordinator-worker-instructions.md"
+    },
+    {
+      "name": "system-prompt-description-part-of-memory-instructions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-description-part-of-memory-instructions.md"
+    },
+    {
+      "name": "system-prompt-doing-tasks-ambitious-tasks",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-doing-tasks-ambitious-tasks.md"
+    },
+    {
+      "name": "system-prompt-doing-tasks-help-and-feedback",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-doing-tasks-help-and-feedback.md"
+    },
+    {
+      "name": "system-prompt-doing-tasks-no-compatibility-hacks",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-doing-tasks-no-compatibility-hacks.md"
+    },
+    {
+      "name": "system-prompt-doing-tasks-no-unnecessary-additions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-doing-tasks-no-unnecessary-additions.md"
+    },
+    {
+      "name": "system-prompt-doing-tasks-no-unnecessary-error-handling",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-doing-tasks-no-unnecessary-error-handling.md"
+    },
+    {
+      "name": "system-prompt-doing-tasks-security",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-doing-tasks-security.md"
+    },
+    {
+      "name": "system-prompt-doing-tasks-software-engineering-focus",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-doing-tasks-software-engineering-focus.md"
+    },
+    {
+      "name": "system-prompt-dream-claudemd-memory-reconciliation",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-dream-claudemd-memory-reconciliation.md"
+    },
+    {
+      "name": "system-prompt-dream-team-memory-handling",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-dream-team-memory-handling.md"
+    },
+    {
+      "name": "system-prompt-emoji-avoidance",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-emoji-avoidance.md"
+    },
+    {
+      "name": "system-prompt-executing-actions-with-care",
+      "category": "claude-code",
+      "description": "Executing actions with care",
+      "path": "prompts/claude-code/system-prompt-executing-actions-with-care.md"
+    },
+    {
+      "name": "system-prompt-exploratory-questions-analyze-before-implementing",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-exploratory-questions-analyze-before-implementing.md"
+    },
+    {
+      "name": "system-prompt-fork-usage-guidelines",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-fork-usage-guidelines.md"
+    },
+    {
+      "name": "system-prompt-frontend-browser-verification",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-frontend-browser-verification.md"
+    },
+    {
+      "name": "system-prompt-git-status",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-git-status.md"
+    },
+    {
+      "name": "system-prompt-harness-instructions",
+      "category": "claude-code",
+      "description": "Harness",
+      "path": "prompts/claude-code/system-prompt-harness-instructions.md"
+    },
+    {
+      "name": "system-prompt-hooks-configuration",
+      "category": "claude-code",
+      "description": "Example command that outputs: {\"systemMessage\": \"Session complete!\"}",
+      "path": "prompts/claude-code/system-prompt-hooks-configuration.md"
+    },
+    {
+      "name": "system-prompt-how-to-use-the-sendusermessage-tool",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-how-to-use-the-sendusermessage-tool.md"
+    },
+    {
+      "name": "system-prompt-insights-at-a-glance-summary",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-insights-at-a-glance-summary.md"
+    },
+    {
+      "name": "system-prompt-insights-friction-analysis",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-insights-friction-analysis.md"
+    },
+    {
+      "name": "system-prompt-insights-on-the-horizon",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-insights-on-the-horizon.md"
+    },
+    {
+      "name": "system-prompt-insights-session-facets-extraction",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-insights-session-facets-extraction.md"
+    },
+    {
+      "name": "system-prompt-insights-suggestions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-insights-suggestions.md"
+    },
+    {
+      "name": "system-prompt-learning-mode-insights",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-learning-mode-insights.md"
+    },
+    {
+      "name": "system-prompt-learning-mode",
+      "category": "claude-code",
+      "description": "Learning Style Active",
+      "path": "prompts/claude-code/system-prompt-learning-mode.md"
+    },
+    {
+      "name": "system-prompt-memory-description-of-user-details",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-memory-description-of-user-details.md"
+    },
+    {
+      "name": "system-prompt-memory-description-of-user-feedback-with-explicit-save",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-memory-description-of-user-feedback-with-explicit-save.md"
+    },
+    {
+      "name": "system-prompt-memory-description-of-user-feedback",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-memory-description-of-user-feedback.md"
+    },
+    {
+      "name": "system-prompt-memory-instructions",
+      "category": "claude-code",
+      "description": "Memory",
+      "path": "prompts/claude-code/system-prompt-memory-instructions.md"
+    },
+    {
+      "name": "system-prompt-memory-save-exclusions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-memory-save-exclusions.md"
+    },
+    {
+      "name": "system-prompt-memory-staleness-verification",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-memory-staleness-verification.md"
+    },
+    {
+      "name": "system-prompt-minimal-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-minimal-mode.md"
+    },
+    {
+      "name": "system-prompt-one-of-six-rules-for-using-sleep-command",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-one-of-six-rules-for-using-sleep-command.md"
+    },
+    {
+      "name": "system-prompt-option-previewer",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-option-previewer.md"
+    },
+    {
+      "name": "system-prompt-outcome-first-communication-style",
+      "category": "claude-code",
+      "description": "Communicating with the user",
+      "path": "prompts/claude-code/system-prompt-outcome-first-communication-style.md"
+    },
+    {
+      "name": "system-prompt-parallel-tool-call-note-part-of-tool-usage-policy",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-parallel-tool-call-note-part-of-tool-usage-policy.md"
+    },
+    {
+      "name": "system-prompt-partial-compaction-instructions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-partial-compaction-instructions.md"
+    },
+    {
+      "name": "system-prompt-phase-four-of-plan-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-phase-four-of-plan-mode.md"
+    },
+    {
+      "name": "system-prompt-powershell-edition-for-51",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-powershell-edition-for-51.md"
+    },
+    {
+      "name": "system-prompt-prefer-editing-existing-files",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-prefer-editing-existing-files.md"
+    },
+    {
+      "name": "system-prompt-proactive-schedule-offer-after-natural-future-follow-up",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-proactive-schedule-offer-after-natural-future-follow-up.md"
+    },
+    {
+      "name": "system-prompt-remote-plan-mode-ultraplan",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-remote-plan-mode-ultraplan.md"
+    },
+    {
+      "name": "system-prompt-remote-planning-session",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-remote-planning-session.md"
+    },
+    {
+      "name": "system-prompt-repl-tool-usage-and-scripting-conventions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-repl-tool-usage-and-scripting-conventions.md"
+    },
+    {
+      "name": "system-prompt-scratchpad-directory",
+      "category": "claude-code",
+      "description": "Scratchpad Directory",
+      "path": "prompts/claude-code/system-prompt-scratchpad-directory.md"
+    },
+    {
+      "name": "system-prompt-skillify-current-session",
+      "category": "claude-code",
+      "description": "Skillify {{userDescriptionBlock}}",
+      "path": "prompts/claude-code/system-prompt-skillify-current-session.md"
+    },
+    {
+      "name": "system-prompt-strict-proactive-schedule-offer-gate",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-strict-proactive-schedule-offer-gate.md"
+    },
+    {
+      "name": "system-prompt-subagent-delegation-examples",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-subagent-delegation-examples.md"
+    },
+    {
+      "name": "system-prompt-subagent-prompt-writing-examples",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-subagent-prompt-writing-examples.md"
+    },
+    {
+      "name": "system-prompt-tone-and-style-code-references",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-tone-and-style-code-references.md"
+    },
+    {
+      "name": "system-prompt-tone-and-style-concise-output-short",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-tone-and-style-concise-output-short.md"
+    },
+    {
+      "name": "system-prompt-tool-call-colon-avoidance",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-tool-call-colon-avoidance.md"
+    },
+    {
+      "name": "system-prompt-tool-execution-denied",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-tool-execution-denied.md"
+    },
+    {
+      "name": "system-prompt-tool-usage-subagent-guidance",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-tool-usage-subagent-guidance.md"
+    },
+    {
+      "name": "system-prompt-tool-usage-task-management",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-tool-usage-task-management.md"
+    },
+    {
+      "name": "system-prompt-worker-instructions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-worker-instructions.md"
+    },
+    {
+      "name": "system-prompt-writing-subagent-prompts",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-writing-subagent-prompts.md"
+    },
+    {
+      "name": "system-prompt-wsl-managed-settings-double-opt-in",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-prompt-wsl-managed-settings-double-opt-in.md"
+    },
+    {
+      "name": "system-reminder-agent-mention",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-agent-mention.md"
+    },
+    {
+      "name": "system-reminder-btw-side-question",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-btw-side-question.md"
+    },
+    {
+      "name": "system-reminder-compact-file-reference",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-compact-file-reference.md"
+    },
+    {
+      "name": "system-reminder-cross-session-peer-message-authority-warning",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-cross-session-peer-message-authority-warning.md"
+    },
+    {
+      "name": "system-reminder-exited-plan-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-exited-plan-mode.md"
+    },
+    {
+      "name": "system-reminder-file-exists-but-empty",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-file-exists-but-empty.md"
+    },
+    {
+      "name": "system-reminder-file-modification-detected-budget-exceeded",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-file-modification-detected-budget-exceeded.md"
+    },
+    {
+      "name": "system-reminder-file-modified-by-user-or-linter",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-file-modified-by-user-or-linter.md"
+    },
+    {
+      "name": "system-reminder-file-opened-in-ide",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-file-opened-in-ide.md"
+    },
+    {
+      "name": "system-reminder-file-shorter-than-offset",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-file-shorter-than-offset.md"
+    },
+    {
+      "name": "system-reminder-file-truncated",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-file-truncated.md"
+    },
+    {
+      "name": "system-reminder-hook-additional-context",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-hook-additional-context.md"
+    },
+    {
+      "name": "system-reminder-hook-blocking-error",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-hook-blocking-error.md"
+    },
+    {
+      "name": "system-reminder-hook-stopped-continuation-prefix",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-hook-stopped-continuation-prefix.md"
+    },
+    {
+      "name": "system-reminder-hook-stopped-continuation",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-hook-stopped-continuation.md"
+    },
+    {
+      "name": "system-reminder-hook-success",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-hook-success.md"
+    },
+    {
+      "name": "system-reminder-lines-selected-in-ide",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-lines-selected-in-ide.md"
+    },
+    {
+      "name": "system-reminder-mcp-resource-no-content",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-mcp-resource-no-content.md"
+    },
+    {
+      "name": "system-reminder-mcp-resource-no-displayable-content",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-mcp-resource-no-displayable-content.md"
+    },
+    {
+      "name": "system-reminder-memory-file-contents",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-memory-file-contents.md"
+    },
+    {
+      "name": "system-reminder-nested-memory-contents",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-nested-memory-contents.md"
+    },
+    {
+      "name": "system-reminder-new-diagnostics-detected",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-new-diagnostics-detected.md"
+    },
+    {
+      "name": "system-reminder-output-style-active",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-output-style-active.md"
+    },
+    {
+      "name": "system-reminder-plan-file-reference",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-plan-file-reference.md"
+    },
+    {
+      "name": "system-reminder-plan-mode-approval-tool-enforcement",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-plan-mode-approval-tool-enforcement.md"
+    },
+    {
+      "name": "system-reminder-plan-mode-is-active-5-phase",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-plan-mode-is-active-5-phase.md"
+    },
+    {
+      "name": "system-reminder-plan-mode-is-active-subagent",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-plan-mode-is-active-subagent.md"
+    },
+    {
+      "name": "system-reminder-plan-mode-re-entry",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-plan-mode-re-entry.md"
+    },
+    {
+      "name": "system-reminder-previously-invoked-skills",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-previously-invoked-skills.md"
+    },
+    {
+      "name": "system-reminder-session-continuation",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-session-continuation.md"
+    },
+    {
+      "name": "system-reminder-stop-hook-blocking-error",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-stop-hook-blocking-error.md"
+    },
+    {
+      "name": "system-reminder-task-tools-reminder",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-task-tools-reminder.md"
+    },
+    {
+      "name": "system-reminder-team-coordination",
+      "category": "claude-code",
+      "description": "Team Coordination",
+      "path": "prompts/claude-code/system-reminder-team-coordination.md"
+    },
+    {
+      "name": "system-reminder-team-shutdown",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-team-shutdown.md"
+    },
+    {
+      "name": "system-reminder-todowrite-reminder",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-todowrite-reminder.md"
+    },
+    {
+      "name": "system-reminder-token-usage",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-token-usage.md"
+    },
+    {
+      "name": "system-reminder-ultraplan-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-ultraplan-mode.md"
+    },
+    {
+      "name": "system-reminder-usd-budget",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-usd-budget.md"
+    },
+    {
+      "name": "system-reminder-verify-plan-reminder",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/system-reminder-verify-plan-reminder.md"
+    },
+    {
+      "name": "tool-description-agent-simple-usage-notes",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-agent-simple-usage-notes.md"
+    },
+    {
+      "name": "tool-description-agent-usage-notes",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-agent-usage-notes.md"
+    },
+    {
+      "name": "tool-description-askuserquestion-preview-field",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-askuserquestion-preview-field.md"
+    },
+    {
+      "name": "tool-description-askuserquestion",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-askuserquestion.md"
+    },
+    {
+      "name": "tool-description-background-monitor-streaming-events",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-background-monitor-streaming-events.md"
+    },
+    {
+      "name": "tool-description-bash-alternative-communication",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-alternative-communication.md"
+    },
+    {
+      "name": "tool-description-bash-alternative-content-search",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-alternative-content-search.md"
+    },
+    {
+      "name": "tool-description-bash-alternative-edit-files",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-alternative-edit-files.md"
+    },
+    {
+      "name": "tool-description-bash-alternative-file-search",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-alternative-file-search.md"
+    },
+    {
+      "name": "tool-description-bash-alternative-read-files",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-alternative-read-files.md"
+    },
+    {
+      "name": "tool-description-bash-alternative-write-files",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-alternative-write-files.md"
+    },
+    {
+      "name": "tool-description-bash-built-in-tools-note",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-built-in-tools-note.md"
+    },
+    {
+      "name": "tool-description-bash-git-avoid-destructive-ops",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-git-avoid-destructive-ops.md"
+    },
+    {
+      "name": "tool-description-bash-git-commit-and-pr-creation-instructions",
+      "category": "claude-code",
+      "description": "Other common operations",
+      "path": "prompts/claude-code/tool-description-bash-git-commit-and-pr-creation-instructions.md"
+    },
+    {
+      "name": "tool-description-bash-git-never-skip-hooks",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-git-never-skip-hooks.md"
+    },
+    {
+      "name": "tool-description-bash-git-prefer-new-commits",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-git-prefer-new-commits.md"
+    },
+    {
+      "name": "tool-description-bash-maintain-cwd",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-maintain-cwd.md"
+    },
+    {
+      "name": "tool-description-bash-no-newlines",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-no-newlines.md"
+    },
+    {
+      "name": "tool-description-bash-overview",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-overview.md"
+    },
+    {
+      "name": "tool-description-bash-parallel-commands",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-parallel-commands.md"
+    },
+    {
+      "name": "tool-description-bash-prefer-dedicated-tools-bullet",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-prefer-dedicated-tools-bullet.md"
+    },
+    {
+      "name": "tool-description-bash-prefer-dedicated-tools",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-prefer-dedicated-tools.md"
+    },
+    {
+      "name": "tool-description-bash-quote-file-paths",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-quote-file-paths.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-adjust-settings",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-adjust-settings.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-default-to-sandbox",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-default-to-sandbox.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-evidence-access-denied",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-evidence-access-denied.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-evidence-list-header",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-evidence-list-header.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-evidence-network-failures",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-evidence-network-failures.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-evidence-operation-not-permitted",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-evidence-operation-not-permitted.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-evidence-unix-socket-errors",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-evidence-unix-socket-errors.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-explain-restriction",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-explain-restriction.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-failure-evidence-condition",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-failure-evidence-condition.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-mandatory-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-mandatory-mode.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-no-exceptions",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-no-exceptions.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-no-sensitive-paths",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-no-sensitive-paths.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-per-command",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-per-command.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-response-header",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-response-header.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-retry-without-sandbox",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-retry-without-sandbox.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-tmpdir",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-tmpdir.md"
+    },
+    {
+      "name": "tool-description-bash-sandbox-user-permission-prompt",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sandbox-user-permission-prompt.md"
+    },
+    {
+      "name": "tool-description-bash-semicolon-usage",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-semicolon-usage.md"
+    },
+    {
+      "name": "tool-description-bash-sequential-commands",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sequential-commands.md"
+    },
+    {
+      "name": "tool-description-bash-sleep-keep-short",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sleep-keep-short.md"
+    },
+    {
+      "name": "tool-description-bash-sleep-no-polling-background-tasks",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sleep-no-polling-background-tasks.md"
+    },
+    {
+      "name": "tool-description-bash-sleep-run-immediately",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sleep-run-immediately.md"
+    },
+    {
+      "name": "tool-description-bash-sleep-use-check-commands",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-sleep-use-check-commands.md"
+    },
+    {
+      "name": "tool-description-bash-timeout",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-timeout.md"
+    },
+    {
+      "name": "tool-description-bash-verify-parent-directory",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-verify-parent-directory.md"
+    },
+    {
+      "name": "tool-description-bash-working-directory",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-bash-working-directory.md"
+    },
+    {
+      "name": "tool-description-browser-file-upload",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-browser-file-upload.md"
+    },
+    {
+      "name": "tool-description-browserbatch",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-browserbatch.md"
+    },
+    {
+      "name": "tool-description-computer",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-computer.md"
+    },
+    {
+      "name": "tool-description-croncreate",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-croncreate.md"
+    },
+    {
+      "name": "tool-description-designsync",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-designsync.md"
+    },
+    {
+      "name": "tool-description-edit",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-edit.md"
+    },
+    {
+      "name": "tool-description-enterplanmode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-enterplanmode.md"
+    },
+    {
+      "name": "tool-description-enterworktree",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-enterworktree.md"
+    },
+    {
+      "name": "tool-description-exitplanmode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-exitplanmode.md"
+    },
+    {
+      "name": "tool-description-exitworktree",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-exitworktree.md"
+    },
+    {
+      "name": "tool-description-grep",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-grep.md"
+    },
+    {
+      "name": "tool-description-lsp",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-lsp.md"
+    },
+    {
+      "name": "tool-description-notebookedit",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-notebookedit.md"
+    },
+    {
+      "name": "tool-description-powershell",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-powershell.md"
+    },
+    {
+      "name": "tool-description-pushnotification",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-pushnotification.md"
+    },
+    {
+      "name": "tool-description-readfile",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-readfile.md"
+    },
+    {
+      "name": "tool-description-remotetrigger-prompt",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-remotetrigger-prompt.md"
+    },
+    {
+      "name": "tool-description-repl",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-repl.md"
+    },
+    {
+      "name": "tool-description-request_teach_access-part-of-teach-mode",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-request_teach_access-part-of-teach-mode.md"
+    },
+    {
+      "name": "tool-description-sendmessagetool-non-agent-teams",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-sendmessagetool-non-agent-teams.md"
+    },
+    {
+      "name": "tool-description-sendmessagetool",
+      "category": "claude-code",
+      "description": "SendMessage",
+      "path": "prompts/claude-code/tool-description-sendmessagetool.md"
+    },
+    {
+      "name": "tool-description-senduserfile",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-senduserfile.md"
+    },
+    {
+      "name": "tool-description-skill",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-skill.md"
+    },
+    {
+      "name": "tool-description-snooze-delay-and-reason-guidance",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-snooze-delay-and-reason-guidance.md"
+    },
+    {
+      "name": "tool-description-taskcreate",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-taskcreate.md"
+    },
+    {
+      "name": "tool-description-tasklist-teammate-workflow",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-tasklist-teammate-workflow.md"
+    },
+    {
+      "name": "tool-description-teamdelete",
+      "category": "claude-code",
+      "description": "TeamDelete",
+      "path": "prompts/claude-code/tool-description-teamdelete.md"
+    },
+    {
+      "name": "tool-description-teammatetool",
+      "category": "claude-code",
+      "description": "TeamCreate",
+      "path": "prompts/claude-code/tool-description-teammatetool.md"
+    },
+    {
+      "name": "tool-description-todowrite",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-todowrite.md"
+    },
+    {
+      "name": "tool-description-toolsearch-second-part",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-toolsearch-second-part.md"
+    },
+    {
+      "name": "tool-description-webfetch",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-webfetch.md"
+    },
+    {
+      "name": "tool-description-websearch",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-websearch.md"
+    },
+    {
+      "name": "tool-description-workflow",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-workflow.md"
+    },
+    {
+      "name": "tool-description-write-read-existing-file-first",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-write-read-existing-file-first.md"
+    },
+    {
+      "name": "tool-description-write",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-description-write.md"
+    },
+    {
+      "name": "tool-parameter-computer-action",
+      "category": "claude-code",
+      "description": "<!--",
+      "path": "prompts/claude-code/tool-parameter-computer-action.md"
     },
     {
       "name": "chatgpt-4-5",

@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "awesome-prompt-forge"
-version = "1.0.0"
-description = "350+ lazy-loading AI system prompts — Claude, ChatGPT, v0, Cursor, Grok, Devin & more"
+version = "1.0.2"
+description = "2,366 lazy-loading AI system prompts — Claude, Claude Code internals, ChatGPT, v0, Cursor, Grok & more"
 readme = "README.md"
 license = { text = "MIT" }
 authors = [{ name = "Lord1Egypt", email = "akim.221992@gmail.com" }]
