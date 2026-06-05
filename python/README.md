@@ -1,0 +1,116 @@
+# awesome-prompt-forge
+
+> 2,026 lazy-loading AI system prompts — Claude, ChatGPT, v0, Cursor, Grok, Devin & more
+
+[![PyPI](https://img.shields.io/pypi/v/awesome-prompt-forge)](https://pypi.org/project/awesome-prompt-forge/)
+[![npm](https://img.shields.io/npm/v/awesome-prompt-forge)](https://www.npmjs.com/package/awesome-prompt-forge)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+Real-world system prompts extracted from the world's top AI tools. Zero dependencies, lazy-loaded — only reads from disk when you ask for it.
+
+---
+
+## Install
+
+```bash
+pip install awesome-prompt-forge
+```
+
+```bash
+npm install awesome-prompt-forge
+```
+
+---
+
+## Python Usage
+
+```python
+import prompt_forge as pf
+
+# Load a prompt by name
+p = pf.load("claude-5-06-2025")
+print(p.content)
+
+# Search by keyword
+results = pf.search("linux terminal")
+for r in results:
+    print(r["name"], r["category"])
+
+# List all Claude prompts
+claude_prompts = pf.list_prompts(category="claude")
+print(len(claude_prompts))
+
+# Count per category
+print(pf.categories())
+```
+
+---
+
+## JavaScript Usage
+
+```js
+const pf = require('awesome-prompt-forge')
+
+// Load a prompt
+const p = pf.load('claude-5-06-2025')
+console.log(p.content)
+
+// Search
+const results = pf.search('linux terminal')
+results.forEach(r => console.log(r.name, r.category))
+
+// List by category
+const v0Prompts = pf.listPrompts('v0')
+
+// Stats
+console.log(pf.categories())
+```
+
+---
+
+## CLI
+
+```bash
+# Python CLI
+promptforge stats
+promptforge search "linux terminal"
+promptforge list --category claude
+promptforge load claude-5-06-2025
+
+# Node CLI
+npx awesome-prompt-forge stats
+npx awesome-prompt-forge search "code review"
+```
+
+---
+
+## Categories
+
+| Category | Description | Count |
+|----------|-------------|-------|
+| `claude` | Official Claude system prompts | 11 |
+| `chatgpt` | GPT-4, ChatGPT, o3/o4 prompts | 18 |
+| `v0` | Vercel v0 system prompts | 3 |
+| `cursor` | Cursor IDE prompts | 2 |
+| `copilot` | GitHub & Microsoft Copilot | 4 |
+| `grok` | Grok 1/2/3 prompts | 7 |
+| `devin` | Devin 2.0 prompt | 2 |
+| `perplexity` | Perplexity AI prompt | 2 |
+| `llama` | Meta Llama 4 prompt | 1 |
+| `writing` | Writing-focused system prompts | 87 |
+| `general` | Role-based personas (act as...) | 1,857 |
+| `tools` | Manus, Windsurf, Loveable, Replit, etc. | 32 |
+
+---
+
+## Data Sources
+
+- [Nymbo/Official_LLM_System_Prompts](https://huggingface.co/datasets/Nymbo/Official_LLM_System_Prompts) — MIT
+- [MoritzLaurer/closed_system_prompts](https://huggingface.co/datasets/MoritzLaurer/closed_system_prompts)
+- [fka/awesome-chatgpt-prompts](https://huggingface.co/datasets/fka/awesome-chatgpt-prompts) — CC0
+- [danielrosehill/Writing-System-Prompts](https://huggingface.co/datasets/danielrosehill/Writing-System-Prompts) — CC-BY-4.0
+- [Lord1Egypt/awesome-ai-system-prompts](https://github.com/Lord1Egypt/awesome-ai-system-prompts)
+
+---
+
+Made with ❤️ by [Lord1Egypt](https://github.com/Lord1Egypt)

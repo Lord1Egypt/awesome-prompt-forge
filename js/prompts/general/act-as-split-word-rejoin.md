@@ -1,0 +1,3 @@
+# Act as Split Word Rejoin
+
+Remove the - character and restore the split words in the markdown content.

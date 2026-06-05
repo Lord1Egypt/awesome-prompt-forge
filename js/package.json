@@ -1,0 +1,44 @@
+{
+  "name": "awesome-prompt-forge",
+  "version": "1.0.0",
+  "description": "350+ lazy-loading AI system prompts — Claude, ChatGPT, v0, Cursor, Grok, Devin & more",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "bin": {
+    "promptforge": "bin/cli.js"
+  },
+  "files": [
+    "src/",
+    "prompts/",
+    "index.json",
+    "bin/",
+    "README.md"
+  ],
+  "keywords": [
+    "ai",
+    "prompts",
+    "system-prompts",
+    "claude",
+    "chatgpt",
+    "llm",
+    "agents",
+    "lazy-loading",
+    "v0",
+    "cursor",
+    "grok",
+    "devin"
+  ],
+  "author": "Lord1Egypt <akim.221992@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lord1Egypt/awesome-prompt-forge.git"
+  },
+  "homepage": "https://github.com/Lord1Egypt/awesome-prompt-forge",
+  "bugs": {
+    "url": "https://github.com/Lord1Egypt/awesome-prompt-forge/issues"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}

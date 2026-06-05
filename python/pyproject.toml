@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "awesome-prompt-forge"
+version = "1.0.0"
+description = "350+ lazy-loading AI system prompts — Claude, ChatGPT, v0, Cursor, Grok, Devin & more"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "Lord1Egypt", email = "akim.221992@gmail.com" }]
+keywords = ["ai", "prompts", "system-prompts", "claude", "chatgpt", "llm", "agents", "lazy-loading"]
+classifiers = [
+    "Development Status :: 5 - Production/Stable",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+requires-python = ">=3.9"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/Lord1Egypt/awesome-prompt-forge"
+Repository = "https://github.com/Lord1Egypt/awesome-prompt-forge"
+Issues = "https://github.com/Lord1Egypt/awesome-prompt-forge/issues"
+
+[project.scripts]
+promptforge = "prompt_forge.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["prompt_forge*"]
+
+[tool.setuptools.package-data]
+prompt_forge = ["index.json", "prompts/**/*"]
