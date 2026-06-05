@@ -1,7 +1,7 @@
 {
   "name": "awesome-prompt-forge",
-  "version": "1.0.0",
-  "description": "350+ lazy-loading AI system prompts — Claude, ChatGPT, v0, Cursor, Grok, Devin & more",
+  "version": "1.0.1",
+  "description": "2,026 lazy-loading AI system prompts — Claude, ChatGPT, v0, Cursor, Grok, Devin & more",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "bin": {
