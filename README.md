@@ -1,6 +1,6 @@
 # awesome-prompt-forge
 
-> 2,366 lazy-loading AI system prompts — Claude, Claude Code internals, ChatGPT, v0, Cursor, Grok, Devin & more
+> 2,592 lazy-loading AI system prompts & agents — Claude, Claude Code, ChatGPT, v0, Cursor, Grok, Devin & 226 AI agent personalities
 
 [![PyPI](https://img.shields.io/pypi/v/awesome-prompt-forge)](https://pypi.org/project/awesome-prompt-forge/)
 [![npm](https://img.shields.io/npm/v/awesome-prompt-forge)](https://www.npmjs.com/package/awesome-prompt-forge)
@@ -101,6 +101,7 @@ npx awesome-prompt-forge search "code review"
 | `writing` | Writing-focused system prompts | 87 |
 | `general` | Role-based personas (act as...) | 1,857 |
 | `tools` | Manus, Windsurf, Loveable, Replit, etc. | 32 |
+| `agents` | AI agent personalities (engineering, marketing, design, sales...) | 226 |
 
 ---
 
@@ -112,6 +113,7 @@ npx awesome-prompt-forge search "code review"
 - [danielrosehill/Writing-System-Prompts](https://huggingface.co/datasets/danielrosehill/Writing-System-Prompts) — CC-BY-4.0
 - [Lord1Egypt/awesome-ai-system-prompts](https://github.com/Lord1Egypt/awesome-ai-system-prompts)
 - [Piebald-AI/claude-code-system-prompts](https://github.com/Piebald-AI/claude-code-system-prompts) — MIT
+- [PMLyf/agency-agents](https://github.com/PMLyf/agency-agents) — MIT
 
 ---
 
